@@ -3,7 +3,7 @@ import GyroScene from '../AssetsScenes3d/GyroScene'
 
 function GyroComponent() {
   return (
-    <div>
+    <div className='h-full w-full'>
       GyroComponent
       <GyroScene/>
     </div>
